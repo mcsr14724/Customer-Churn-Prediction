@@ -1,4 +1,3 @@
-ipykernel
 streamlit==1.46.1
 tensorflow==2.21.0
 numpy==1.26.4
