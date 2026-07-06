@@ -49,4 +49,3 @@ if predict_prob>0.5:
     st.write('The customer is likely to churn with a probability of {:.2f}%'.format(predict_prob * 100))
 else:
     st.write('The customer is not likely to churn with a probability of {:.2f}%'.format((1 - predict_prob) * 100))
-
